@@ -8,6 +8,8 @@ public class TestStaticClazz {
         StaticClazz.Main test = new StaticClazz.Main();
         test.method1();
         StaticClazz.Main.main();
+
+
     }
 
 }
