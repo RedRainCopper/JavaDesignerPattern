@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Message Header -->
+<cpsss xmlns="http://www.example.org/NewXMLSchema">
+	<reqtype>
+
+	</reqtype>
+	<processtime>
+
+	</processtime>
+	<request>
+		<servicetype>
+
+		</servicetype>
+		<serviceid>
+
+		</serviceid>
+		<systemid>
+
+		</systemid>
+		<syspassword>
+
+		</syspassword>
+		<useraccount>
+
+		</useraccount>
+	</request>
+	<response>
+		<returncode>
+
+		</returncode>
+		<returnmessage>
+
+		</returnmessage>
+	</response>
+	<!-- Service Content -->
+	<svccont>
+
+	</svccont>
+</cpsss>
