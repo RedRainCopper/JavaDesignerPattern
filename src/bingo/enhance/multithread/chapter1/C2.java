@@ -27,6 +27,5 @@ public class C2 {
         Thread tt = new Thread(t1);
         tt.start();
         tt.join();
-        
     }
 }
